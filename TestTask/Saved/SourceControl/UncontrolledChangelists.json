@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/GitProject/AssenzioPuro/TestTask/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/GitProject/AssenzioPuro/TestTask/Content/Defender/Demo/Levels/LevelDialogueBlockout.umap",
+				"C:/GitProject/AssenzioPuro/TestTask/Content/Defender/Blueprints/BP_AnimatedDialogueActor.uasset",
+				"C:/GitProject/AssenzioPuro/TestTask/Content/Defender/Blueprints/Characters/BP_MainCharParent.uasset",
+				"C:/GitProject/AssenzioPuro/TestTask/Content/MyContent/Francesco/asjdas.uasset",
+				"C:/GitProject/AssenzioPuro/TestTask/Content/MyContent/Attilio/dasda.uasset",
+				"C:/GitProject/AssenzioPuro/TestTask/Content/MyContent/Gabriele/dasda.uasset",
+				"C:/GitProject/AssenzioPuro/TestTask/Content/MyContent/Arta/sdjsidsioogpfg.uasset",
+				"C:/GitProject/AssenzioPuro/TestTask/Content/MyContent/Alessio/Romanista.uasset",
+				"C:/GitProject/AssenzioPuro/TestTask/Content/MyContent/Gabriele/MyChar.uasset",
+				"C:/GitProject/AssenzioPuro/TestTask/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/GitProject/AssenzioPuro/TestTask/Content/MyContent/Gabriele/MyCharDef.uasset"
+			]
+		}
+	]
+}
